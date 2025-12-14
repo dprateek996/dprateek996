@@ -1,170 +1,79 @@
-<!-- TOP: Mario Running -->
-<p align="center">
-  <img src="https://media.giphy.com/media/pjb1HPZ41i5BS/giphy.gif" width="160" alt="Mario Running">
-</p>
+<div align="center">
+  <h1>Hi, I'm Prateek Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h3>Final Year CSE Student & Full Stack Developer</h3>
+  <br/>
+</div>
 
-<h1 align="center">Hey, I'm <strong>Prateek Dwivedi</strong> 👋</h1>
-
-<p align="center">
-  <em>Developer by day, debugger by night — jumping over bugs one level at a time.</em>
-</p>
-
-<p align="center">
+<div align="center">
+  <a href="https://x.com/Prateek40593386" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://linkedin.com/in/prateek-dwivedi-557725212" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:dprateek996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff4757?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/prateek-dwivedi-557725212/">
-    <img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<br/>
+<br />
 
 ---
 
-## 🧱 About Me
+### 👨‍💻 **About Me**
 
-Hey! I'm Prateek — a Web Dev + DevOps learner who loves building things that **feel good, run fast, and scale well**.
+I am a **Final Year Computer Science Engineering student** based in **Mohali**, passionate about translating code into user-centric products. My journey involves deep-diving into **Full Stack Development** and optimizing workflows with **Cloud DevOps**.
 
-I enjoy:
-- Clean UI  
-- Stable backend systems  
-- CI/CD automation  
-- Writing code that doesn’t scream in production  
-
-`$ whoami → prateek@github`  
-`$ echo "Always learning. Always building."`
-
-<br/>
+* 🎓 **Status:** Final Year B.E. CSE Student.
+* 🔭 **Focus:** Building scalable MERN applications and exploring AI integrations.
+* 🌱 **Learning:** Advanced Kubernetes orchestration and System Design patterns.
+* ⚡ **Goal:** To engineer robust systems that solve real-world efficiency problems.
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ **Tech Stack**
 
-<p align="center">
+<div align="center">
 
-  <!-- Frontend -->
-  <h3 align="center">🌐 Frontend</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  </p>
+| **Frontend** | **Backend** | **DevOps & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,tailwind,redux,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" /> |
 
-  <!-- Backend -->
-  <h3 align="center">🧩 Backend</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  </p>
-
-  <!-- DevOps -->
-  <h3 align="center">☁️ DevOps & Cloud</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-  </p>
-
-  <!-- Database -->
-  <h3 align="center">🗄️ Database</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  </p>
-
-  <!-- Languages -->
-  <h3 align="center">💻 Languages & Tools</h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  </p>
-
-</p>
-<br/>
+</div>
 
 ---
 
-## 🚀 Projects
+### 🚀 **Featured Projects**
 
-### 🎤 Voice Expense Tracker
-<p>
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="180" align="right"/>
-</p>
+#### 🎙️ **[Voice Expense Tracker](https://github.com/dprateek996)**
+> *Speech-enabled financial dashboard.*
+A React application that enables users to log expenses via natural language commands.
+* **Tech:** React.js, Node.js, Web Speech API.
+* **Key Feature:** Custom regex engine that parses spoken inputs (e.g., "50 for lunch") into structured data.
 
-Voice-powered expense logging.  
-Speak → it listens → logs instantly.  
-Simple, fast, accessible.
+#### 🧠 **[AI Browser Extension](https://github.com/dprateek996)**
+> *Context-aware web summarizer.*
+A Chrome extension leveraging GenAI to provide real-time summaries of web content.
+* **Tech:** JavaScript, Manifest V3, REST APIs.
+* **Key Feature:** Asynchronous background processing ensures zero impact on browser performance.
 
-<br clear="both"/>
-
----
-
-### 🖼️ Pinterest-Style Backend
-<p>
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="180" align="right"/>
-</p>
-
-A clean, scalable backend with:  
-- JWT auth  
-- Efficient MongoDB queries  
-- Organized API structure  
-
-<br clear="both"/>
+#### 📈 **[Trade Journal](https://github.com/dprateek996)**
+> *Analytics platform for traders.*
+A responsive web application designed to track trading history and analyze performance.
+* **Tech:** HTML, CSS, JavaScript, Database.
+* **Key Feature:** Implemented advanced filtering logic to retrieve trade records 40% faster.
 
 ---
 
-### 🛒 E-Commerce Platform
-<p>
-  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="160" align="right"/>
-</p>
+### 📊 **GitHub Stats**
 
-Frontend → backend → AWS deployment.  
-Stable checkout and a smooth user flow.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dprateek996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprateek996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
-<br clear="both"/>
+<br />
 
-<br/>
-
----
-
-## 🎯 What I'm Working On
-- Improving Voice Expense Tracker  
-- Learning CI/CD best practices  
-- Building small projects to sharpen skills  
-- Exploring backend architecture patterns  
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dprateek996&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprateek996&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dprateek996&label=Visitors&color=blueviolet&style=flat-square" />
-</p>
-
-<br/>
-
----
-
-## 📫 Reach Me
-
-📧 Email: **dprateek996@gmail.com**  
-🔗 LinkedIn: [Prateek Dwivedi](https://www.linkedin.com/in/prateek-dwivedi-557725212/)
-
-<br/>
-
-<!-- Bottom: Mario & Luigi walking -->
-<p align="center">
-  <img src="https://media.giphy.com/media/O1R8R1eHBHysSHVegA/giphy.gif" width="150"/>
-  <br>
-  <em>Thanks for scrolling — keep leveling up 🚀</em>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dprateek996&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
